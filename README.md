@@ -27,7 +27,7 @@ void Draw()
 
 void Input() {
   int a;
-  cout << "Press the number of the field";
+  cout << "1~9の開いている数字を選んでください";
   cin >> a;
 
   if (a == 1)
